@@ -14,7 +14,7 @@ const Navbar = () => {
           <li>
             <Link
               className="relative bg-linear-to-r from-current to-current bg-size-[0%_0px] bg-no-repeat bg-bottom-left transition-[background-size] duration-300 hover:bg-size-[100%_2px]"
-              href="https://github.com/"
+              href="https://github.com/KushagraSingh1100/transfer-buddy"
             >
               GitHub Repository
             </Link>
